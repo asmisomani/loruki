@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:root{
+  --mont:'Montserrat';
+  --robo:'Roboto';
+  --blue:#057AED;
+  --dark:#002240;
+  --black:#333333;
+  --heading:4rem;
+  --subhead:3rem;
+  --opensans:'Open Sans';
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
