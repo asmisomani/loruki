@@ -9,10 +9,10 @@ function App() {
     <div>
       <Nav/>
       <Switch>
-      <Route path="/" exact>
-        <Redirect to="/home"/>
+      <Route path="/home" >
+        <Redirect to="/"/>
       </Route>
-      <Route path="/home">
+      <Route path="/" exact>
       <Home/>
       </Route>
       <Route path='/features'>
