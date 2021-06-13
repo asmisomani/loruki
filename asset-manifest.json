@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/loruki/static/css/main.3a62be78.chunk.css",
+    "main.js": "/loruki/static/js/main.27a75e06.chunk.js",
+    "main.js.map": "/loruki/static/js/main.27a75e06.chunk.js.map",
+    "runtime-main.js": "/loruki/static/js/runtime-main.690c7aa1.js",
+    "runtime-main.js.map": "/loruki/static/js/runtime-main.690c7aa1.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/loruki/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.6a1701af.chunk.js": "/loruki/static/js/2.6a1701af.chunk.js",
+    "static/js/2.6a1701af.chunk.js.map": "/loruki/static/js/2.6a1701af.chunk.js.map",
+    "index.html": "/loruki/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/loruki/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.3a62be78.chunk.css.map": "/loruki/static/css/main.3a62be78.chunk.css.map",
+    "static/js/2.6a1701af.chunk.js.LICENSE.txt": "/loruki/static/js/2.6a1701af.chunk.js.LICENSE.txt",
+    "static/media/cli.474b02c9.png": "/loruki/static/media/cli.474b02c9.png",
+    "static/media/cloud.5f566988.png": "/loruki/static/media/cloud.5f566988.png",
+    "static/media/docs.acf58078.png": "/loruki/static/media/docs.acf58078.png",
+    "static/media/server.30812a88.png": "/loruki/static/media/server.30812a88.png",
+    "static/media/server2.e413c94c.png": "/loruki/static/media/server2.e413c94c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.690c7aa1.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.6a1701af.chunk.js",
+    "static/css/main.3a62be78.chunk.css",
+    "static/js/main.27a75e06.chunk.js"
+  ]
+}
