@@ -9,10 +9,10 @@ function App() {
     <div>
       <Nav/>
       <Switch>
-      <Route path="/home" >
-        <Redirect to="/" exact/>
-      </Route>
       <Route path="/" exact>
+        <Redirect to="/loruki" exact/>
+      </Route>
+      <Route path="/loruki" exact>
       <Home/>
       </Route>
       <Route path='/features'>
@@ -20,6 +20,9 @@ function App() {
       </Route>
       <Route path="/docs">
       <Docs/>
+      </Route>
+      <Route path="*">
+        <Home/>
       </Route>
       </Switch>
       <Footer/>
