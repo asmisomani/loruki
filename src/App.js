@@ -8,6 +8,7 @@ function App() {
   return (
     <div>
       <Nav/>
+      <Home/>
       <Switch>
       <Route path="/home" >
         <Redirect to="/"/>
